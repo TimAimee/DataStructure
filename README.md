@@ -224,8 +224,7 @@
     
 
 * 实现代码    
-
-` ` ` Java
+```Java
     //快速排序  
     public static void quickSort(int[] arr){   
       qsort(arr, 0, arr.length-1);  
@@ -254,7 +253,7 @@
         swap(arr[i],arr[arr.length-1])  
         //返回的是基准数据的位置  
         return i;  
-    }  ` ` `
+    }```
  
 * 性能分析  
     
