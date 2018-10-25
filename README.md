@@ -253,7 +253,8 @@
         swap(arr[i],arr[arr.length-1])  
         //返回的是基准数据的位置  
         return i;  
-    }```
+    }
+  ```
  
 * 性能分析  
     
