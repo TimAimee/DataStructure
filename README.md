@@ -117,6 +117,10 @@
     * 步骤六,开始第二次循环交换{1,3,2,5,4} 重复以上步骤
         * {1,2,3,4,5,6}
     * 结束
+* 动画展示
+  
+  ![](https://thumbnail0.baidupcs.com/thumbnail/d4c88b8cc620af6af67c33910899fcf7?fid=1965631489-250528-458105244136871&time=1540569600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FyS2bT%2FdkpaL9G2OxnE3a78d87c%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=6934845282502043385&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+  
 * 实现代码
  ```java
  public static void bubbleSort(int[] arr) {
@@ -166,6 +170,11 @@
     * 步骤六,第六次选择4,将{5,6}后移,替换4,最终{1,2,3,4,5,6},无序{} 
         * {1,2,3,4,5,6}
     * 结束
+    
+* 动画展示  
+
+![](https://thumbnail0.baidupcs.com/thumbnail/6e67d1c722106442b422ee53e98575b3?fid=1965631489-250528-49163951976690&time=1540569600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Q5Yehkq0nXe7FGY6FtIYFj70O0I%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=6934729807979717223&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)  
+
 * 实现代码
  ```java
  public static void insertSort(int[] numbers){
@@ -211,6 +220,10 @@
     * 步骤六,第六次选择6,放入有序末端,交换[6,6]位置,最终有序{1,2,3,4,5,6},无序{} 
         * {1,2,3,4,5,6}
     * 结束
+* 动画展示  
+
+![](https://thumbnail0.baidupcs.com/thumbnail/f20b8898585b3ca03843d93ce2c35a68?fid=1965631489-250528-352779506478042&time=1540569600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-uwMscw8i3s2C7GEhYQHvGEv2BdM%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=6934812512989256390&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+
 * 实现代码
 ```Java
  public static void selectSort(int[] array){
@@ -286,6 +299,9 @@
     * 步骤六,第三次合并
         * {1,2,3,4,5,6,7,8} 
     * 结束
+* 动画展示  
+
+![](https://thumbnail0.baidupcs.com/thumbnail/a29c0dd0186d1f8cef3c5ebdedf3e5a3?fid=1965631489-250528-849432608703125&time=1540569600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-CInmZuERDfNXBNlNTWV5EN%2B8ffw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=6934864169144824899&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 
 * 实现代码
 ```Java
@@ -381,7 +397,9 @@
     * 步骤八,将4右边的数据重复以上步骤, 实现第三次的划分排序
         * {1,2,3,4,5,6} 
     * 结束
-    
+ * 动画展示  
+ 
+![](https://thumbnail0.baidupcs.com/thumbnail/d4e5d0a778dba725091d8317e6bac939?fid=1965631489-250528-63936477290856&time=1540569600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-C7Ni7BKFdZC6Dif%2B3OG%2BTXo1qcw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=6934768471050065794&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)    
 
 * 实现代码    
 ```Java
