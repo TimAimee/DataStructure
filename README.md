@@ -292,7 +292,7 @@
                 min=j;
             }
         }
-        //通过交换实现将最小数据放入有序末端，
+        //通过交换实现将最小数据放入有序末端，  
         int temp=array[i];
         array[i]=array[min];
         array[min]=temp;
