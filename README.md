@@ -1,4 +1,4 @@
-# 数据结构学习笔记
+# 数据结构与算法之美学习笔记
 ![数据结构与算法之美](https://github.com/TimAimee/DataStructure/blob/master/IMG_3154.JPG)
 
 * [基本数据结构](#基本数据结构)
