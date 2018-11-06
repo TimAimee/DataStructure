@@ -31,6 +31,7 @@
     * [12.二分法查找](#二分法查找)
     * [13.跳表查找](#跳表查找)
 * [14.散列表](#散列表)
+* [进群交流](#进群交流)
 * [学习优惠码](#优惠码)
 
 # <span id="基本数据结构">基本数据结构</span>
@@ -609,7 +610,10 @@
 * 执行效率 
 
 ## 参考
-[BiliBili 排序演示](https://space.bilibili.com/39049488/#/channel/detail?cid=30972)
+[BiliBili 排序演示](https://space.bilibili.com/39049488/#/channel/detail?cid=30972)  
+
+# <span id="进群交流">进群交流</span>  
+![进群交流](https://github.com/TimAimee/DataStructure/blob/master/1541471641338.png)  
 
 # <span id="优惠码">学习优惠码</span>
 ![邀请码](https://github.com/TimAimee/DataStructure/blob/master/IMG_3155.JPG)
