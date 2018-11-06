@@ -1,4 +1,5 @@
-# 数据结构
+# 数据结构学习笔记
+![数据结构与算法之美](https://github.com/TimAimee/DataStructure/blob/master/IMG_3154.JPG)
 
 * [基本数据结构](#基本数据结构)
     * [00.时间复杂度与空间复杂度](#时间复杂度与空间复杂度)
@@ -30,6 +31,7 @@
     * [12.二分法查找](#二分法查找)
     * [13.跳表查找](#跳表查找)
 * [14.散列表](#散列表)
+* [学习优惠码](#优惠码)
 
 # <span id="基本数据结构">基本数据结构</span>
 
@@ -609,3 +611,5 @@
 ## 参考
 [BiliBili 排序演示](https://space.bilibili.com/39049488/#/channel/detail?cid=30972)
 
+# <span id="优惠码">学习优惠码</span>
+![邀请码](https://github.com/TimAimee/DataStructure/blob/master/IMG_3155.JPG)
